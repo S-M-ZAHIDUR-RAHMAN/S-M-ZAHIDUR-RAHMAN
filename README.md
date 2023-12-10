@@ -1,4 +1,7 @@
-![Alt Text](/Colorful%20Abstract%20Online%20Shop%20Free%20Logo.gif)
+
+
+![Alt Text](/Free%20Universe%20Stars%20Video%20Gif%20Animated%20Zoom%20Virtual%20Background.gif)
+
 
 ### Overview
 #### <p>I am a **MERN Stack Developer** having knowledge in *MongoDB*, *Express.js*, *React* and *Node.js*, *Tailwind CSS* and *Firebase*. Presently focusing on front-end web development, my goal is to become a full-stack developer by mastering backend technologies as well. Reach me in:</p>
